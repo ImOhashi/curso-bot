@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ImOhashi/curso-bot/issues"
   },
-  "homepage": "https://github.com/ImOhashi/curso-bot#readme"
+  "homepage": "https://github.com/ImOhashi/curso-bot#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
 }
